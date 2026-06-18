@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coolify",
+  "description": "Manage a self-hosted Coolify PaaS over its API — list/inspect/create/update/delete applications, databases, services, servers, projects, and environment variables",
+  "author": {
+    "name": "jachana"
+  },
+  "repository": "https://github.com/jachana/skill-coolify",
+  "license": "MIT"
+}
